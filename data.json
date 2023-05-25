@@ -1,0 +1,93 @@
+[
+    {
+      "pictureURL": "https://images.pexels.com/photos/35967/mini-cooper-auto-model-vehicle.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Fiat Sports SUV",
+      "seller_name" : "Toy World",
+      "seller_email" : "info@toyworld.com",
+      "seller": {
+        "name": "Toy World",
+        "email": "info@toyworld.com"
+      },
+      "subcategory": "Remote-Control-Cars",
+      "price": 29.99,
+      "rating": 4.5,
+      "quantity": 10,
+      "description": "This is a toy SUV of fiat company. It is featured for its unique looks. It is fully remote controlled"
+    },
+    {
+        "pictureURL": "https://images.unsplash.com/photo-1559038465-e0ca2910a5b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3BvcnQlMjBjYXIlMjB0b3lzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "name": "Mercedes G-Wagon Sports SUV",
+        "seller_name" : "Toy World",
+      "seller_email" : "info@toyworld.com",
+        "seller": {
+          "name": "Toy World",
+          "email": "info@toyworld.com"
+        },
+        "subcategory": "Remote-Control-Cars",
+        "price": 39.99,
+        "rating": 4.5,
+        "quantity": 20,
+        "description": "This is a toy SUV of Mercedes-Benz company. It is featured for its unique looks. It is a G-wagon and it is fully remote controlled"
+      },
+    {
+      "pictureURL": "https://images.pexels.com/photos/2767818/pexels-photo-2767818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Taxi Sports",
+      "seller_name" : "Toy Universe",
+      "seller_email" : "sales@toyuniverse.com",
+      "seller": {
+        "name": "Toy Universe",
+        "email": "sales@toyuniverse.com"
+      },
+      "subcategory": "Generic-Cars",
+      "price": 19.99,
+      "rating": 4.2,
+      "quantity": 5,
+      "description": "This is a taxi converted into sports car with nitro attached."
+    },
+    {
+      "pictureURL": "https://images.unsplash.com/photo-1677788202272-f338958e28ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyJTIwdG95fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "name": "Ferrari First-Zen",
+      "seller_name" : "Ferro Toys",
+      "seller_email" : "salfer@toyferro.com",
+      "seller": {
+        "name": "Ferro Toys",
+        "email": "salfer@toyferro.com"
+      },
+      "subcategory": "Generic-Cars",
+      "price": 12.99,
+      "rating": 4.2,
+      "quantity": 5,
+      "description": "This is a t ferrari first generation sports car with nitro attached."
+    },
+    {
+      "pictureURL": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Aston Replica",
+      "seller_name" : "Super Toys",
+      "seller_email" : "contact@supertoys.com",
+      "seller": {
+        "name": "Super Toys",
+        "email": "contact@supertoys.com"
+      },
+      "subcategory": "Replicas",
+      "price": 9.99,
+      "rating": 4.0,
+      "quantity": 15,
+      "description": "A replica of aston martin sportino sport sedan."
+    },
+    {
+      "pictureURL": "https://images.unsplash.com/photo-1618325366510-289151181310?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3BvcnRzJTIwY2FyJTIwdG95fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "name": "Porsche Cayman Replica",
+      "seller_name" : "Super Toys",
+      "seller_email" : "contact@supertoys.com",
+      "seller": {
+        "name": "Super Toys",
+        "email": "contact@supertoys.com"
+      },
+      "subcategory": "Replicas",
+      "price": 29.99,
+      "rating": 4.0,
+      "quantity": 25,
+      "description": "A replica of Porche cayman sport sedan."
+    }
+  ]
+  
